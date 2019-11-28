@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pon41k/Desktop/С#/practik_5.1/practik_5.1/practik_5.1.csproj": {}
+  },
+  "projects": {
+    "/Users/pon41k/Desktop/С#/practik_5.1/practik_5.1/practik_5.1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pon41k/Desktop/С#/practik_5.1/practik_5.1/practik_5.1.csproj",
+        "projectName": "practik_5.1",
+        "projectPath": "/Users/pon41k/Desktop/С#/practik_5.1/practik_5.1/practik_5.1.csproj",
+        "packagesPath": "/Users/pon41k/.nuget/packages/",
+        "outputPath": "/Users/pon41k/Desktop/С#/practik_5.1/practik_5.1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/pon41k/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

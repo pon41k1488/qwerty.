@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1F6EB12C-35AD-49D9-B2F1-BD21B35E5915}|Default">
+  <MonoDevelop.Ide.ItemProperties.practik__5.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="practik_5.1/Program.cs">
+    <Files>
+      <File FileName="practik_5.1/Program.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
